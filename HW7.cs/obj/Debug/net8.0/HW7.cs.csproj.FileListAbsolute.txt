@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\Classes\HW7.cs\bin\Debug\net8.0\HW7.cs.exe
+c:\Users\User\Desktop\Classes\HW7.cs\bin\Debug\net8.0\HW7.cs.deps.json
+c:\Users\User\Desktop\Classes\HW7.cs\bin\Debug\net8.0\HW7.cs.runtimeconfig.json
+c:\Users\User\Desktop\Classes\HW7.cs\bin\Debug\net8.0\HW7.cs.dll
+c:\Users\User\Desktop\Classes\HW7.cs\bin\Debug\net8.0\HW7.cs.pdb
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\HW7.cs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\HW7.cs.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\HW7.cs.AssemblyInfo.cs
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\HW7.cs.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\HW7.cs.dll
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\refint\HW7.cs.dll
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\HW7.cs.pdb
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\HW7.cs.genruntimeconfig.cache
+c:\Users\User\Desktop\Classes\HW7.cs\obj\Debug\net8.0\ref\HW7.cs.dll
